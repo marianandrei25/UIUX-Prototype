@@ -1,0 +1,236 @@
+.frame-child22,
+.frame-child23 {
+  position: absolute;
+  left: 115px;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  transform-origin: 0 0;
+}
+.frame-child22 {
+  top: 0;
+  background-color: var(--color-darkslateblue);
+  transform: rotate(90deg);
+}
+.frame-child23 {
+  top: 116px;
+  background-color: #fff8ed;
+  transform: rotate(-180deg);
+  z-index: 1;
+}
+.ellipse-parent1 {
+  align-self: stretch;
+  height: 116px;
+  position: relative;
+}
+.random-inner {
+  width: 115px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 378px 0 0;
+  box-sizing: border-box;
+}
+.its-okay {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 1;
+}
+.rainbow-removebg-preview-1-icon {
+  height: 611px;
+  width: 374px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.to {
+  position: relative;
+  display: inline-block;
+  min-width: 45px;
+  z-index: 1;
+}
+.else-message,
+.o-k-button,
+.o-k-button-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.else-message {
+  height: 611px;
+  width: 374px;
+  margin: 0 !important;
+  position: absolute;
+  bottom: -424px;
+  left: -78.5px;
+  justify-content: flex-end;
+  padding: 203px 102.5px;
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-21xl);
+}
+.o-k-button,
+.o-k-button-wrapper {
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.o-k-button {
+  position: relative;
+}
+.o-k-button-wrapper {
+  padding: 0 var(--padding-4xl) 0 23.5px;
+  box-sizing: border-box;
+}
+.not-be-okay {
+  margin: 0;
+  position: relative;
+  font-size: 64px;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 1;
+}
+.frame-parent39,
+.frame-wrapper16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent39 {
+  flex-direction: column;
+  gap: 73px;
+}
+.frame-wrapper16 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-child24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue);
+  width: 100%;
+  height: 100%;
+}
+.material-symbolsarrow-forward-icon {
+  position: absolute;
+  top: 19px;
+  left: 19px;
+  width: 51px;
+  height: 51px;
+  overflow: hidden;
+  z-index: 1;
+}
+.ellipse-parent2 {
+  height: 89px;
+  flex: 1;
+  position: relative;
+}
+.frame-parent38,
+.round-shape {
+  display: flex;
+  justify-content: flex-start;
+}
+.round-shape {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 89px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent38 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 139px;
+  max-width: calc(100% - 201px);
+}
+.image-20-icon {
+  height: 214px;
+  width: 298px;
+  position: absolute;
+  margin: 0 !important;
+  top: 31px;
+  right: 481px;
+  object-fit: contain;
+  z-index: 1;
+}
+.random {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-13xl);
+  background-color: #96d1bd;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 295px var(--padding-205xl) var(--padding-24xl) 317px;
+  box-sizing: border-box;
+  gap: 86px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 80px;
+  color: var(--white);
+  font-family: var(--font-epilogue);
+}
+@media screen and (max-width: 750px) {
+  .its-okay {
+    font-size: var(--font-size-21xl);
+  }
+  .to {
+    font-size: var(--font-size-13xl);
+  }
+  .not-be-okay {
+    font-size: 51px;
+  }
+}
+@media screen and (max-width: 675px) {
+  .random-inner {
+    display: none;
+    padding-top: 246px;
+    box-sizing: border-box;
+  }
+  .frame-parent38 {
+    gap: var(--gap-50xl);
+    max-width: 100%;
+  }
+  .random {
+    gap: var(--gap-24xl);
+    padding-left: 158px;
+    padding-right: var(--padding-93xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .its-okay,
+  .to {
+    font-size: var(--font-size-5xl);
+  }
+  .not-be-okay {
+    font-size: 38px;
+  }
+  .frame-parent39 {
+    gap: 36px;
+  }
+  .frame-parent38 {
+    gap: var(--gap-16xl);
+  }
+  .random {
+    gap: var(--gap-2xl);
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
