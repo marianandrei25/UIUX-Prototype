@@ -5,3 +5,6 @@ View high-fidelity clickable wireframe prototype at: https://www.figma.com/file/
 Program flow and prototype:
 
 ![program flow and prototype](https://github.com/marianandrei25/Individual-UI-UX-Portfolio/assets/114992071/1f1e2da4-35f0-488e-833e-26eb36366550)
+
+
+Fixes were applied based on the results of the User Testing so the prototype will be accessible to the user.
