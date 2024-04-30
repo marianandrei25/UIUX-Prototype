@@ -8,3 +8,8 @@ Program flow and prototype:
 
 
 Fixes were applied based on the results of the User Testing so the prototype will be accessible to the user.
+
+Tester : n.roper-2021@hull.ac.uk
+
+Based on feedback there are some improvements i can make: - From A/B test: Other buttons could be more suitable because they also have text.
+- Some improvements can be made with the location of the elements
